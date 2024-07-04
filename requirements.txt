@@ -1,0 +1,10 @@
+langchain==0.2.6
+langchain_anthropic==0.1.19
+langchain_community==0.2.6
+langchain_core==0.2.11
+langchain_google_genai==1.0.7
+langchain_groq==0.1.6
+langchain_openai==0.1.14
+openai==1.35.10
+pyaudio==0.2.14
+python-dotenv==1.0.1
